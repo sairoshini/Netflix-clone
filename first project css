@@ -1,0 +1,43 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+  }
+  
+  .container {
+    background-image: url("https://i.pinimg.com/originals/b4/5c/6e/b45c6ea4ab990aba7fa10263c4cd03f1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:400px;
+    overflow:hidden;
+    display:flex;
+    transition: transform 0.5s; 
+  }
+  
+  
+  .row {
+    display: flex;
+    overflow-y: hidden;
+    margin: 18px;
+    transition: transform 0.5s;
+  }
+  .row> img {
+    margin: 18px;
+    transition: transform 0.5s;
+  }
+  
+  
+  .row1> img {
+    margin: 18px;
+    transition: transform 0.5s;
+  }
+  
+  .row > img:hover {
+    transform: scale(1.1);
+  }
+  
+  ::-webkit-scrollbar {
+    display: none;
+  }
