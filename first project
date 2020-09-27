@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="index.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Netflix clone </title>
+  </head>
+  <body>
+    <div class="container">
+      <img
+        style="position: fixed;"        
+       src="https://i.pinimg.com/originals/b4/5c/6e/b45c6ea4ab990aba7fa10263c4cd03f1.jpg"
+        width="80"
+        style="margin: 30px;"
+      />
+    </div>
+    <div>
+      <h2 style="margin:28px;">Netflix Originals</h2>
+      <div class="row1">
+        <imgsrc="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHMMmp5eKbGiBGbSLQb-oXGG3g-YEGelGIag&usqp=CAU"
+          width="140"
+          height="200"
+        />
+        <img
+          src="https://i.ytimg.com/vi/oaiiNQe6Fhk/maxresdefault.jpg"
+          width="140"
+          height="200"
+        />
+        <img
+          src="https://2.bp.blogspot.com/-ppzxw6bYfsc/WRJRuDEEw5I/AAAAAAAAL9c/R1nXfQjm_GQ7zVY2S2cpsER-HL0YKYUWACLcB/s1600/Sofia_the_First_Promo_1.jpg"
+          width="140"
+          height="200"
+        />
+        <img
+          src="https://occ-0-1007-1009.1.nflxso.net/art/0d3cc/83e5823cf9baed00acdf9b7641cf13bd5e50d3cc.jpg"
+          width="140"
+          height="200"
+        />
+        <img
+          src="https://cdn.europosters.eu/image/750/posters/snow-white-and-the-seven-dwarfs-i11206.jpg"
+          width="140"
+          height="200"
+        />
+        <img
+          src="https://i.pinimg.com/474x/fb/ed/86/fbed86605a1f85e05af356dd269fddd4.jpg"
+          width="140"
+          height="200"
+        />
+        <img
+        src="https://vignette.wikia.nocookie.net/netflix/images/7/76/Fearless_%282020_film%29.png/revision/latest?cb=20200814134044"
+          width="140"
+          height="200"
+        />
+        <img
+        src="https://i.pinimg.com/564x/ee/c7/d9/eec7d965cdca51991dfd0167f51d38f5.jpg"
+          width="140"
+          height="200"
+        />
+        <img
+          src="https://kmscubreporter.com/wp-content/uploads/2018/12/16959619122_01e7ec7d14_b.jpg"
+          width="140"
+          height="200"
+        />
+        <img
+          src="https://occ-0-2567-2568.1.nflxso.net/art/97b50/58d74c1fea9e4d1b304d6aafad5f12ffd8697b50.jpg"
+          width="140"
+          height="200"
+        />
+        <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTo0MhTdKJ1xmNLYvSMeO66dMMoZXnXP53N0Q&usqp=CAU"
+          width="140"
+          height="200"
+        />
+      </div>
+    </div>
+
+    <div>
+      <h2 style="margin: 28px;">Top Rated</h2>
+      <div class="row">
+        <img
+          src="https://occ-0-185-1567.1.nflxso.net/art/23076/e555847ae9362f4614d2994276f7970ff9523076.jpg"
+          width="160"
+          height="200"
+        />
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgbpe7NSfw-Oe2Mt9SrYROnw2-agQNpyfpOQ&usqp=CAU"
+          width="160"
+          height="200"
+        />
+        <img
+          src="https://m.media-amazon.com/images/M/MV5BMjM2MTIxYTAtYWM3MC00OWI4LWJmMjMtYzBhMWFlMzU0NTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+          width="160"
+          height="200"
+        />
+        <img
+          src="https://i.ytimg.com/vi/V0xv99h17QE/maxresdefault.jpg"
+          width="160"
+          height="200"
+        />
+        <img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1AaB2Z75BM8Wx1lbp1Ng-CMChyhVu4LBVkg&usqp=CAU"
+          width="160"
+          height="200"
+        />
+       
+      </div>
+    </div>
+
+    <div>
+      <h2 style="margin: 8px;">Animated movies</h2>
+      <div class="row">
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSChETFHiRWMFnLiXpNqop8Z4yC19mDo_suWw&usqp=CAU"
+          width="160"
+          height="200"
+        />
+        <img
+          src="https://i.pinimg.com/originals/52/c6/65/52c665df0515dd447eb92544374cf543.jpg"
+          width="160"
+          height="200"
+        />
+        <img
+          src="https://i1.wp.com/www.disneytouristblog.com/wp-content/uploads/2012/09/Rescuers-Blu-ray-Cover.jpg?ssl=1"
+          width="160"
+          height="200"
+        />
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJzvmh5Yk-epZ_Xm2s8a31-Hqlwayge7TSuQ&usqp=CAU"
+          width="160"
+          height="200"
+        />
+        <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaRPhtWGJSYrLy42OhJ-GaQcFt12zbqcWZ6w&usqp=CAU"
+          width="160"
+          height="200"
+        />
+        <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdB8m3d-qgWBWYFfdo-ISBCyb8hjSu0WjfaA&usqp=CAU"
+        width="160"
+        height="200"
+        />
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTucbd8xAOUQFacY4xumh_X3r30AgLjyVBHnQ&usqp=CAU"
+          width="160"
+          height="200"
+        />
+      </div>
+    </div>
+  </body>
+</html>
